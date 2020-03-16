@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+* {
+    font-family: "Helvetica", "나눔고딕", "맑은고딕", "굴림";
+}
+
+html,
+body {
+    width: 700px;
+    margin: auto;
+}
+
+#container {
+    width: auto;
+    margin: auto;
+}
+
+a {
+    color: #222222;
+    text-decoration: none;
+}
+
+hr {
+    display: none;
+}
